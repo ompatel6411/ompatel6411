@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Om Patel
 
-<!--
-**ompatel6411/ompatel6411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=ompatel6411&label=Profile%20Views&color=blue&style=flat)
 
-Here are some ideas to get you started:
+🎓 1st Year Diploma in Information Technology Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 GitHub Username: ompatel6411
+
+🔭 Currently working on: Programming Projects
+
+🌱 Currently learning: C & Python
+
+📫 **How to reach me:**
+
+✉️ Email: [ombpatel6411@gmail.com](mailto:ombpatel6411@gmail.com)
+
+🤝 **Connect with me**
+
+GitHub: [ompatel6411](https://github.com/ompatel6411)
+
+🛠️ **Languages and Tools**
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45"/>
+</p>
